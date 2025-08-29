@@ -8,7 +8,7 @@ This project analyzes a sales call recording and provides:
 - Sales rep vs customer identification (Bonus)
 
 ## How to Run
-1. Open `call_quality_analyzer.ipynb` in Google Colab.
+1. Open `AI_Call_Analyzer.ipynb` in Google Colab.
 2. Run all cells.
 3. Upload or link a sales call audio file or paste youtube link.
 
